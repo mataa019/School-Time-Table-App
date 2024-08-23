@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SchoolTimeTable</string>
+
+
+
+    <!-- Notes Activity strings -->
+    <string name="title_dialog">Title:</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="title_error">Title field cannot be empty!</string>
+    <string name="title">Title</string>
+    <string name="saved">Saved</string>
+
+
+
+
+
+</resources>

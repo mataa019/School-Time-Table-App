@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1009570717302",
+    "firebase_url": "https://schooltimetable-46444-default-rtdb.firebaseio.com",
+    "project_id": "schooltimetable-46444",
+    "storage_bucket": "schooltimetable-46444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009570717302:android:19a093e0d6b123b1390957",
+        "android_client_info": {
+          "package_name": "com.asdoi.timetable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVBADCtRzOaDax8cJgSeI8ENu5viNKnnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009570717302:android:70c1885dbab67ce3390957",
+        "android_client_info": {
+          "package_name": "com.example.schooltimetable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVBADCtRzOaDax8cJgSeI8ENu5viNKnnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
